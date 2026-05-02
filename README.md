@@ -75,3 +75,6 @@ If you found this useful:
 ## 💡 Quote
 
 > “He who has a why to live can bear almost any how.” — Friedrich Nietzsche
+
+
+_Last updated with collaboration again_
